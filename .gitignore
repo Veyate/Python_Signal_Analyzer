@@ -216,3 +216,63 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Additionnels
+# --- Python - Fichiers compilés et cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Environnements virtuels ---
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# --- Windows - Fichiers système et métadonnées ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.~lock.*
+
+# --- IDEs & Éditeurs (VS Code, PyCharm, Spyder, etc.) ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Spyder spécifiques
+.spyderproject
+.spyder-py3/
+*.spyder
+
+# --- Tests, Linting & Outils de qualité ---
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.history/
