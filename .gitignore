@@ -220,6 +220,7 @@ __marimo__/
 # Additionnels
 # --- Python - Fichiers compilés et cache ---
 __pycache__/
+__pycache__
 *.py[cod]
 *$py.class
 *.so
