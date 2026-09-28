@@ -1,0 +1,14 @@
+{
+  "app_title": "Analyseur de Signaux",
+  "menu_file": "Fichier",
+  "menu_view": "Affichage",
+  "menu_analysis": "Analyse",
+  "menu_help": "Aide",
+  "menu_new": "Nouveau",
+  "menu_open": "Ouvrir (.psa)",
+  "menu_save": "Sauvegarder",
+  "menu_import": "📂 Importer CSV",
+  "menu_data_disp": "📈 Affichage des données",
+  "status_ready": "Prêt",
+  "status_selected": "Élément sélectionné : {}"
+}
