@@ -1,6 +1,3 @@
-"""
-Moteur de traduction (i18n).
-"""
 import json
 import os
 
@@ -21,7 +18,10 @@ class I18nManager:
     def get(self, key, *args):
         text = self.translations.get(key, key)
         if args:
-            return text.format(*args)
+            try:
+                return text.format(*args)
+            except Exception:
+                return text
         return text
 
 i18n = I18nManager()

@@ -1,6 +1,3 @@
-"""
-Gestionnaire des préférences utilisateur.
-"""
 import json
 import os
 import customtkinter as ctk
