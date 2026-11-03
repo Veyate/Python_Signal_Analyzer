@@ -18,4 +18,5 @@
 # UI mod
 - Reorder node groups
 - Auto expand drawing area
+- Add button to close all opened tabs
 - 
