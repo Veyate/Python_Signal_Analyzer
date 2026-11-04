@@ -17,7 +17,11 @@
 
 
 # UI mod
-- Reorder node groups
-- Auto expand drawing area
-- Add button to close all opened tabs
-- 
+- [ ] Reorder node groups
+- [ ] Auto expand drawing area
+- [ ] Add button to close all opened tabs
+- [ ] Add drawing or Annotation menu with Text, Line and Frames
+
+# Bugs
+- [ ] Line not connected to Gain node input
+- [ ] 
