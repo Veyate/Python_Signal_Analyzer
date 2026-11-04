@@ -15,6 +15,9 @@
 ## Sources
 - [ ] Noise generateur ( white, pink, spike)
 
+## Filters
+- [ ] Add blocking ZOH to the moving average node
+
 
 # UI mod
 - [ ] Reorder node groups
