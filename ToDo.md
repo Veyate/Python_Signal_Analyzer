@@ -33,5 +33,4 @@
 - [ ] Add pan moving of drawing area with third mouse button or ctrl + left clic 
 
 # Bugs
-- [ ] Line not connected to Gain node input
-- [ ] 
+- [x]  ~~Line not connected to Gain node input~~
