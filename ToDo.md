@@ -1,6 +1,7 @@
 # Add New Nodes
 ## Analysis
 - [ ] Power / Energy analysis (2 Input node)
+- [ ] Error analysis ( 2 input node)
 - [ ] Add limit manually for all analysis
 
 ## Maths
