@@ -27,7 +27,7 @@
 
 # UI mod
 - [ ] Reorder node groups
-- [ ] Auto expand drawing area
+- [x] ~~Auto expand drawing area~~
 - [ ] Add button to close all opened tabs
 - [ ] Add drawing or Annotation menu with Text, Line and Frames
 - [ ] Add pan moving of drawing area with third mouse button or ctrl + left clic 
