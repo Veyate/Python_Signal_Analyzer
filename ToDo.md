@@ -22,7 +22,7 @@
 - [ ] Sinus with adjustable flat top
 
 ## Filters
-- [ ] Add blocking ZOH to the moving average node
+- [x] ~~Add blocking ZOH to the moving average node~~
 
 
 # UI mod
