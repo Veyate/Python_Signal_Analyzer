@@ -8,12 +8,14 @@
 - [ ] Multiplication (1 Input and constant or 2 Input node)
 - [ ] Substraction (1 Input and constant or 2 Input node)
 - [ ] Division (1 Input and constant or 2 Input node)
+- [ ] Addition with one constant
 - [ ] Maths formula editor ( parametrable timing calculus, nnumber of input )
 - [ ] Comparator ( sign <; <=; >; >=; ... between 2 inputs or 1 input and constant)
 - [ ] limit / saturation
 
 ## Miscelaneous
-- [ ] Python script ( parametrable timing calculus )
+- [x] Python script ( parametrable timing calculus )
+- [ ] Add more than 1 output for python script
 
 ## Sources
 - [ ] Noise generateur ( white, pink, spike)
