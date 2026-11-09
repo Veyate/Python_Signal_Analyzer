@@ -37,3 +37,4 @@
 
 # Bugs
 - [x]  ~~Line not connected to Gain node input~~
+- [ ]  Offset of gain node doesn't work
