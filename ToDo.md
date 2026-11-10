@@ -2,6 +2,7 @@
 ## Analysis
 - [ ] Power / Energy analysis (2 Input node)
 - [ ] Error analysis ( 2 input node)
+- [ ] Statistic analysissysteme
 - [ ] Add limit manually for all analysis
 
 ## Maths
@@ -14,8 +15,8 @@
 - [ ] limit / saturation
 
 ## Miscelaneous
-- [x] Python script ( parametrable timing calculus )
-- [ ] Add more than 1 output for python script
+- [x] ~~♣Python script ( parametrable timing calculus )~~
+- [x] ~~Add more than 1 output for python script~~
 
 ## Sources
 - [ ] Noise generateur ( white, pink, spike)
@@ -33,8 +34,12 @@
 - [x] ~~Auto expand drawing area~~
 - [ ] Add button to close all opened tabs
 - [ ] Add drawing or Annotation menu with Text, Line and Frames
-- [ ] Add pan moving of drawing area with third mouse button or ctrl + left clic 
+- [ ] Add pan moving of drawing area with third mouse button or ctrl + left clic
+- [ ] Add multi window plot
+- [ ] Add rename function for axis
 
 # Bugs
 - [x]  ~~Line not connected to Gain node input~~
 - [ ]  Offset of gain node doesn't work
+- [ ]  FFT recalculate function seems to be not working
+- [ ]  
